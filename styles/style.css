@@ -89,6 +89,7 @@ img {
   width: 100%;
   height: 100%;
   background-image: url(../img/img-01.svg);
+  background-color: #7f8c8d;
   background-repeat: repeat-y;
   background-size: 46%;
   background-position: center top;
@@ -187,15 +188,15 @@ img {
 }
 
 .layout {
-  border: 1px solid #33CCCC;
+  border: 8px solid #39E639;
   width: 160px;
-  padding: 10px 0;
+  padding: 0 0 10px;
 }
 
 .circle {
   height: 100px;
   width: 100px;
-  border: 2px solid #39E639;
+  border: 7px solid #39E639;
   margin: 0 auto;
   border-radius: 50px;
 }
@@ -214,8 +215,8 @@ img {
 .line {
   display: block;
   width: 100%;
-  height: 3px;
-  background-color: #FF4040;
+  height: 6px;
+  background-color: #39E639;
   margin-bottom: 30px;
 }
 
